@@ -1,0 +1,14 @@
+* {
+    background-color: coral;
+    color: cornsilk;
+    font-family: cursive;
+}
+h1 {
+    text-align: center;
+}
+p {
+    margin: 2px;
+}
+a {
+    font-size: medium;
+}
